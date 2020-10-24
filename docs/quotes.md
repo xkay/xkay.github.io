@@ -26,4 +26,11 @@ subtitle: ""
 <span style="float: right; "><strong>Jack Dorsey</strong> </span>
 <br><br>
 
+``` Boil things down to their fundamental truths and reason up from there, as opposed to reasoning by analogy. Through most of our life, we get through life by reasoning by analogy, which essentially means copying what other people do with slight variations.```
+
+<span style="float: right; "><strong>Elon Musk</strong> </span>
+<br><br>
+
+
+
 
