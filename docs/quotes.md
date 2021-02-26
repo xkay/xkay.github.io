@@ -10,7 +10,7 @@ subtitle: ""
 
 ```我决定了，要让自己的人生过得既有趣又快乐。```
 <br>
-<span style="float: right; "><strong>有顶天家族</strong> </span>
+<span style="float: right; "><strong>森见登美彦</strong> </span>
 <br><br>
 
 ``` Think for yourself to decide 1) what you want, 2) what is true, and 3) what you should do to achieve #1 in light of #2 and do that with humility and open-mindedness so that you consider the best thinking available to you.```  
