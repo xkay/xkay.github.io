@@ -7,7 +7,7 @@
     background-color: #FFF; }
 
   a {
-    color: #398cd7;
+    color: #239ED5;
     font-weight: bold;
     text-decoration: none; }
 
@@ -38,11 +38,11 @@
     blockquote p {
       display: inline;
       font-size: 120%;
-      color: #828282;
+      color: #F38BA2;
       font-weight: 400; }
 
   strong {
-    color: #ffc13b; }
+    color: #F8C320; }
 
   .wrapper {
     max-width: 800px;
@@ -58,11 +58,11 @@
   .logo {
     font-size: 300%;
     font-weight: 700;
-    color: #ffc13b;
+    color: #F8C320;
     display: block; }
 
   .menu {
-    color: #828282;
+    color: #F38BA2;
     font-size: 150%;
     margin: 0px;
     margin-top: 6px;
@@ -82,7 +82,7 @@
   .social-links {
     float: right;
     font-size: 200%;
-    color: #828282;
+    color: #F38BA2;
     list-style-type: none; }
 
   .social-links__entry {
@@ -101,7 +101,7 @@
   .page-title__subtitle {
     font-weight: 400;
     font-size: 60%;
-    color: #828282; }
+    color: #F38BA2; }
 
 /* =Post teasers *//*************************************************************/
   .list-posts {
@@ -114,13 +114,13 @@
 
   .post-teaser__title {
     font-size: 100%;
-    color: #828282; }
+    color: #F38BA2; }
 
   .post-teaser__date {
     font-size: 100%;
     float: right;
     vertical-align: middle;
-    color: #828282; }
+    color: #F38BA2; }
 
   .post-teaser__month {
     width: 100%;
@@ -135,7 +135,7 @@
 
 /* =Post page *//*************************************************************/
   .about {
-    color: #828282;
+    color: #F38BA2;
     text-align: center;
     line-height: 24px; }
 
