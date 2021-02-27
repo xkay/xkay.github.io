@@ -1,12 +1,8 @@
 ---
 layout: page
 title: Quotes that inspire me
-subtitle: ""
+subtitle: "I hope they can help you too"
 ---
-
-
-<span style="float: right; "><strong>I hope they help you too</strong> </span>
-<br><br>
 
 ```我决定了，要让自己的人生过得既有趣又快乐。```
 <br>
