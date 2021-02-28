@@ -12,7 +12,7 @@ sitemap:
 	<p>I'm a mobile engineer doing design on the side. I have a diverse background and have lived in Ürümqi (China), Utah, Virginia, Louisiana, Texas. I'm currently residing in San Francisco, California.</p>
 	<p>During my free time I like to travel, do <strong> <a href="https://www.instagram.com/xkay1214/" target="_blank"> photography</a> </strong>, and try new foods.
  </p>
- <strong> 良辰美景啊，有趣即正义 </strong>
+ <strong> 有趣即正义 </strong>
 
 </div>
 
