@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quotes that inspire me
-subtitle: "I hope they can help you too"
+subtitle: "I hope they help you too"
 ---
 
 ```我决定了，要让自己的人生过得既有趣又快乐。```

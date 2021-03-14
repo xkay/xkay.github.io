@@ -38,11 +38,11 @@
     blockquote p {
       display: inline;
       font-size: 120%;
-      color: #F38BA2;
+      color: #239ED5;
       font-weight: 400; }
 
   strong {
-    color: #F8C320; }
+    color: #239ED5; }
 
   .wrapper {
     max-width: 800px;
@@ -62,7 +62,7 @@
     display: block; }
 
   .menu {
-    color: #F38BA2;
+    color: #239ED5;
     font-size: 150%;
     margin: 0px;
     margin-top: 6px;
@@ -82,7 +82,7 @@
   .social-links {
     float: right;
     font-size: 200%;
-    color: #F38BA2;
+    color: #239ED5;
     list-style-type: none; }
 
   .social-links__entry {
@@ -101,7 +101,7 @@
   .page-title__subtitle {
     font-weight: 400;
     font-size: 60%;
-    color: #F38BA2; }
+    color: #239ED5; }
 
 /* =Post teasers *//*************************************************************/
   .list-posts {
@@ -114,13 +114,13 @@
 
   .post-teaser__title {
     font-size: 100%;
-    color: #F38BA2; }
+    color: #239ED5; }
 
   .post-teaser__date {
     font-size: 100%;
     float: right;
     vertical-align: middle;
-    color: #F38BA2; }
+    color: #239ED5; }
 
   .post-teaser__month {
     width: 100%;
@@ -135,7 +135,7 @@
 
 /* =Post page *//*************************************************************/
   .about {
-    color: #F38BA2;
+    color: #F8C320;
     text-align: center;
     line-height: 24px; }
 
