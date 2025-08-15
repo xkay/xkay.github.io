@@ -8,10 +8,12 @@ This is a Jekyll-based personal website. All commands should be run from the `do
 
 ```bash
 cd docs/
-bundle install          # Install dependencies
+bundle install          # Install dependencies (includes Ruby 3.4+ compatibility gems)
 bundle exec jekyll serve # Run development server (localhost:4000)
 bundle exec jekyll build # Build the site
 ```
+
+**Note**: The Gemfile has been updated for Ruby 3.4+ compatibility with required gems: csv, logger, base64
 
 ## Architecture Overview
 
